@@ -1,6 +1,7 @@
 1. What's the worst thing an API has done to you?
 1. What's the first thing you check when evaluating the use of a new API?
 1. What's the first thing you do when developing a new API?
+1. Do you approach developing APIs internally differently to one for the public?
 1. How do you make an API foolproof?
 1. How much structure should an API have? Does it need a contract? *(see SOAP vs REST)*
 1. How should you change an API?
