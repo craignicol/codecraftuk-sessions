@@ -4,8 +4,7 @@ As a general point, I'm thinking of a team as "the people you work regularly wit
 
 1. How do you keep track of your team's goals? And the company goals?
 1. How does your team manage risk to and changes to those goals?
-1. How would you describe the best team you've worked on?
-1. What made that team different?
+1. What makes a great team?
 1. What do you change about your current team?
 1. What makes you feel unsafe in a team? 
 1. How well would your current team survive a conflict?
