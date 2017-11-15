@@ -2,7 +2,6 @@
 
 As a general point, I'm thinking of a team as "the people you work regularly with, usually daily".
 
-1. Does your current team have a clear goal that everyone respects?
 1. How do you keep track of your team's goals? And the company goals?
 1. How does your team manage risk to and changes to those goals?
 1. How would you describe the best team you've worked on?
