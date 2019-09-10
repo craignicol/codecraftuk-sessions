@@ -5,9 +5,10 @@ Navigating SQL, NoSQL, JSON and how to work with data in a post-RDMS, big-data w
 ## Questions
 
 ### Data modelling
-1. Should data be homogenous?
-1. Do you need to update your data when the models in the code change?
-1. How do you migrate data when code changes?
+1. When designing a system, do you start with the data or the code?
+1. Has the rise of cloud based or non relational data stores changed how we model our data?
+1. Do you need to update your data when the models in the code change? How do you do it?
+1. Does all your data have to have the same shape?
 1. Should the data you expose to the outside world broadly match the data at rest?
 
 ### Data security  
@@ -21,7 +22,9 @@ Navigating SQL, NoSQL, JSON and how to work with data in a post-RDMS, big-data w
 
 ### Ethical data
 1. Can your data be used to discriminate?
-1. Is your data biased?
+  * Can you prove it?
+  * Is your data biased?
+  * Are you recording hidden correlations? (ZIP code suggests race)
 1. Who owns your data?
 1. What questions aren't you asking?
 
